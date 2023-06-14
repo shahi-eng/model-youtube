@@ -1,0 +1,124 @@
+
+
+p
+{
+    font-family: Roboto, Arial, sans-serif;
+    
+}
+
+.labels-div
+{
+    height: 25px;
+    width: 100vw;
+}
+
+.contents-plot
+{
+    display: flex;
+    flex: 1;
+    max-width: 1300px;
+    flex-wrap: wrap;
+}
+
+.video-block
+{
+    flex: 1;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+
+.image-preview
+{
+
+}
+
+.pic1
+{
+    height: 210px;
+    width: 400px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+
+.details-box
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.youtuber-pic
+{
+   
+   width: 40px;
+   height: 100px;
+   
+}
+
+.youtuber-profile-pic
+{
+    margin-top: 3px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+
+
+.description-box
+{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 30px;
+
+}
+
+.title-box
+{   
+    
+    width: 370px;
+    height: 50px;
+    color: white;
+}
+
+.title-text
+{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 7px;
+    margin-top: 5px;
+}
+
+.channel-name
+{
+    
+    width: 370px;
+    height: 20px;
+
+}
+
+.name-text
+{
+    font-size: 13px;
+    margin-top: -4px;
+    color: rgb(194, 192, 192);
+    margin-left: 7px;
+
+
+}
+
+.statics-details
+{
+    
+    flex: 1;
+    ;
+}
+
+.statics-text
+{
+    font-size: 13px;
+    margin-top: 0px;
+    color: rgb(194, 192, 192);
+    margin-left: 7px;
+}

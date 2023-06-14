@@ -1,0 +1,21 @@
+.contentbar
+{
+    background-color: black;
+    margin-top: 20px;
+}
+button
+{
+    background-color: rgb(50, 50, 50);
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 0;
+    cursor: pointer;
+}
+
+button:active
+{
+    background-color: white; 
+    color: rgb(50, 50, 50);
+}
